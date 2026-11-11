@@ -1,5 +1,7 @@
 # YouTube OS
 
+> Novo: este sistema agora faz parte do [Content OS](https://github.com/Synaptica24/content-os), que junta YouTube, Instagram, LinkedIn e X numa base única. Este repositório continua funcionando para quem já usa.
+
 Sistema de estratégia e produção de vídeos longos para YouTube, no modelo de crescimento liderado pelo fundador: o dono do negócio aparece, ensina o que sabe e o canal vira a principal fonte de confiança e de clientes. Roda dentro de qualquer assistente de IA que consiga ler uma URL (Claude, ChatGPT, Gemini).
 
 Funciona junto com o [Instagram OS](https://github.com/Synaptica24/instagram-os): o vídeo longo é a peça principal, e os cortes dele viram Shorts, Reels e TikToks.
